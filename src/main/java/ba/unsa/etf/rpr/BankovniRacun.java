@@ -17,6 +17,13 @@ public class BankovniRacun {
         this.zeliSMSObavijesti=zeliSMSObavijesti;
     }
 
+    public BankovniRacun(BankovniRacunBuilder bd1) {
+        this.ime= bd1.ime;
+        this.brojRacuna=bd1.brojRacuna;
+        this.email=bd1.email;
+        this.zeliSMSObavijesti=bd1.zeliSMSObavijesti;
+    }
+
 
     public String getIme() {
         return ime;
@@ -50,8 +57,11 @@ public class BankovniRacun {
             this.zeliSMSObavijesti=zeliSMSObavijesti;
             return this;
         }
-
+        public BankovniRacun build() {
+            return new BankovniRacun(this);
+        }
 
     }
+
 }
 

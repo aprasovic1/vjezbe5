@@ -1,62 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="ba.unsa.etf.rpr.AppTest" time="0" tests="0" errors="0" skipped="0" failures="0">
   <properties>
-    <property name="java.specification.version" value="15"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="java.specification.version" value="1.8"/>
     <property name="sun.cpu.isalist" value="amd64"/>
     <property name="sun.jnu.encoding" value="Cp1250"/>
     <property name="java.class.path" value="C:\Users\SUser\Desktop\vjezbe5\target\test-classes;C:\Users\SUser\Desktop\vjezbe5\target\classes;C:\Users\SUser\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.8.2\junit-jupiter-api-5.8.2.jar;C:\Users\SUser\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\SUser\.m2\repository\org\junit\platform\junit-platform-commons\1.8.2\junit-platform-commons-1.8.2.jar;C:\Users\SUser\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;"/>
     <property name="java.vm.vendor" value="Oracle Corporation"/>
     <property name="sun.arch.data.model" value="64"/>
     <property name="user.variant" value=""/>
-    <property name="java.vendor.url" value="https://java.oracle.com/"/>
-    <property name="user.timezone" value="Europe/Sarajevo"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="user.timezone" value="Europe/Belgrade"/>
     <property name="user.country.format" value="BA"/>
+    <property name="java.vm.specification.version" value="1.8"/>
     <property name="os.name" value="Windows 7"/>
-    <property name="java.vm.specification.version" value="15"/>
-    <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="US"/>
-    <property name="sun.boot.library.path" value="C:\Users\SUser\.jdks\openjdk-15\bin"/>
-    <property name="sun.java.command" value="C:\Users\SUser\AppData\Local\Temp\surefire15846939241351265510\surefirebooter5760908879665076196.jar C:\Users\SUser\AppData\Local\Temp\surefire15846939241351265510 2022-11-14T12-59-18_329-jvmRun1 surefire10690709232350475789tmp surefire_04108874010284453249tmp"/>
-    <property name="jdk.debug" value="release"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_221\jre\bin"/>
+    <property name="sun.java.command" value="C:\Users\SUser\AppData\Local\Temp\surefire2994234149914508525\surefirebooter6359392219796148879.jar C:\Users\SUser\AppData\Local\Temp\surefire2994234149914508525 2022-11-14T13-00-57_978-jvmRun1 surefire6337135334687992079tmp surefire_01724181660355555557tmp"/>
     <property name="surefire.test.class.path" value="C:\Users\SUser\Desktop\vjezbe5\target\test-classes;C:\Users\SUser\Desktop\vjezbe5\target\classes;C:\Users\SUser\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.8.2\junit-jupiter-api-5.8.2.jar;C:\Users\SUser\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\SUser\.m2\repository\org\junit\platform\junit-platform-commons\1.8.2\junit-platform-commons-1.8.2.jar;C:\Users\SUser\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
     <property name="user.home" value="C:\Users\SUser"/>
     <property name="user.language" value="en"/>
     <property name="java.specification.vendor" value="Oracle Corporation"/>
-    <property name="java.version.date" value="2020-09-15"/>
-    <property name="java.home" value="C:\Users\SUser\.jdks\openjdk-15"/>
-    <property name="file.separator" value="\"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_221\jre"/>
     <property name="basedir" value="C:\Users\SUser\Desktop\vjezbe5"/>
-    <property name="java.vm.compressedOopsMode" value="32-bit"/>
+    <property name="file.separator" value="\"/>
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\SUser\AppData\Local\Temp\surefire15846939241351265510\surefirebooter5760908879665076196.jar"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="C:\Users\SUser\AppData\Local\Temp\surefire2994234149914508525\surefirebooter6359392219796148879.jar"/>
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_221\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_221\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_221\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_221\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_221\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_221\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_221\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_221\jre\classes"/>
     <property name="user.script" value=""/>
     <property name="user.script.format" value="Latn"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
-    <property name="java.runtime.version" value="15+36-1562"/>
+    <property name="java.runtime.version" value="1.8.0_221-b11"/>
     <property name="user.name" value="SUser"/>
     <property name="path.separator" value=";"/>
     <property name="os.version" value="6.1"/>
-    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_221\jre\lib\endorsed"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="file.encoding" value="Cp1250"/>
-    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
     <property name="localRepository" value="C:\Users\SUser\.m2\repository"/>
-    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
     <property name="java.io.tmpdir" value="C:\Users\SUser\AppData\Local\Temp\"/>
-    <property name="idea.version" value="2021.1.2"/>
-    <property name="java.version" value="15"/>
+    <property name="java.version" value="1.8.0_221"/>
     <property name="user.dir" value="C:\Users\SUser\Desktop\vjezbe5"/>
     <property name="os.arch" value="amd64"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
     <property name="user.language.format" value="bs"/>
     <property name="sun.os.patch.level" value="Service Pack 1"/>
-    <property name="java.library.path" value="C:\Users\SUser\.jdks\openjdk-15\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\FPC\3.0.4\bin\i386-Win32;C:\Program Files\PuTTY\;C:\xampp\php;C:\ProgramData\ComposerSetup\bin;C:\HashiCorp\Vagrant\bin;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Brackets\command;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Program Files\MATLAB\R2017b\runtime\win64;C:\Program Files\MATLAB\R2017b\bin;C:\Program Files\MATLAB\R2016a\runtime\win64;C:\Program Files\MATLAB\R2016a\bin;C:\Program Files\MATLAB\R2016a\polyspace\bin;C:\Program Files\dotnet\;C:\Program Files (x86)\Common Files\Autodesk Shared\;C:\Users\Student\Documents\apache-maven-3.8.6;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\FPC\3.0.4\bin\i386-Win32;C:\Program Files\PuTTY\;C:\Program Files\Git\cmd;C:\xampp\php;C:\ProgramData\ComposerSetup\bin;C:\HashiCorp\Vagrant\bin;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Brackets\command;;C:\Users\SUser\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\SUser\AppData\Roaming\Composer\vendor\bin;C:\Program Files\Java\jdk1.8.0_221\bin;C:\opts\apache-maven-3.6.2\bin;C:\opts\pgsql\bin;C:\Users\SUser\AppData\Roaming\npm;C:\Program Files\Git\cmd;;C:\altera\13.0sp1\modelsim_ase\win32aloem;."/>
-    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_221\jre\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\FPC\3.0.4\bin\i386-Win32;C:\Program Files\PuTTY\;C:\xampp\php;C:\ProgramData\ComposerSetup\bin;C:\HashiCorp\Vagrant\bin;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Brackets\command;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Program Files\MATLAB\R2017b\runtime\win64;C:\Program Files\MATLAB\R2017b\bin;C:\Program Files\MATLAB\R2016a\runtime\win64;C:\Program Files\MATLAB\R2016a\bin;C:\Program Files\MATLAB\R2016a\polyspace\bin;C:\Program Files\dotnet\;C:\Program Files (x86)\Common Files\Autodesk Shared\;C:\Users\Student\Documents\apache-maven-3.8.6;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\FPC\3.0.4\bin\i386-Win32;C:\Program Files\PuTTY\;C:\Program Files\Git\cmd;C:\xampp\php;C:\ProgramData\ComposerSetup\bin;C:\HashiCorp\Vagrant\bin;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Brackets\command;;C:\Users\SUser\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\SUser\AppData\Roaming\Composer\vendor\bin;C:\Program Files\Java\jdk1.8.0_221\bin;C:\opts\apache-maven-3.6.2\bin;C:\opts\pgsql\bin;C:\Users\SUser\AppData\Roaming\npm;C:\Program Files\Git\cmd;;C:\altera\13.0sp1\modelsim_ase\win32aloem;."/>
+    <property name="java.vm.info" value="mixed mode"/>
     <property name="java.vendor" value="Oracle Corporation"/>
-    <property name="java.vm.version" value="15+36-1562"/>
+    <property name="java.vm.version" value="25.221-b11"/>
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.8.0_221\jre\lib\ext;C:\Windows\Sun\Java\lib\ext"/>
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
-    <property name="java.class.version" value="59.0"/>
+    <property name="java.class.version" value="52.0"/>
   </properties>
 </testsuite>

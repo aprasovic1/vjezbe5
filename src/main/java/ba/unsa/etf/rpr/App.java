@@ -8,6 +8,8 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World!" );
+    BankovniRacun.BankovniRacunBuilder b=new BankovniRacun.BankovniRacunBuilder("Ime","123456").email("email1").zeliSMS(false);
+
+
     }
 }

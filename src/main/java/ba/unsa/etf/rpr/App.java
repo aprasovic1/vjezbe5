@@ -10,6 +10,6 @@ public class App
     {
     BankovniRacun b=new BankovniRacun.BankovniRacunBuilder("Ime","123456").email("email1").zeliSMS(false).build();
     Lik lik1=new GeometrijskiLikFactory().dajLik(4);
-
+    Singleton s=Singleton.INSTANCE;
     }
 }
